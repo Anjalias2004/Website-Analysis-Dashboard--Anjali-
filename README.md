@@ -13,7 +13,6 @@ A dynamic Power BI dashboard analyzing website metrics like total page views, se
 - `Dashboard_Screenshots/`:https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-/blob/main/Screenshot%202025-07-30%20002025%20-%20Copy.png
 -  `Dashboard_Screenshots/`:https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-/blob/main/Screenshot%202025-07-30%20002055%20-%20Copy.png
 -  `Dashboard_Screenshots/`:https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-/blob/main/Screenshot%202025-07-30%20002110.png
-- `task_brief.pdf`: https://github.com/Anjalias2004/Website-Analysis-Dashboard--Anjali-/blob/main/Dashboard%20Tasks.pdf
 
 ##  Tools & Tech
 - Power BI
